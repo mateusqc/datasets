@@ -206,6 +206,7 @@ CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100)
 197,Female,45,126,28
 198,Male,32,126,74
 199,Male,32,137,18
+1239,,32,137,18
 200,Male,30,137,83
 201,Male,432,123,65
 205,Male3,42,123,65
@@ -215,3 +216,4 @@ CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100)
 253,F,65,95,65
 749,Male,,85,60
 867,Male,65,9999,100
+1232,23,32,,18
