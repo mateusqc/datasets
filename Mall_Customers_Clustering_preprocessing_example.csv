@@ -38,7 +38,7 @@ CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100)
 37,Female,42,34,17
 38,Female,30,34,73
 39,Female,36,37,26
-40,Female,20,37,75
+40,Female,20,James Anderson,75
 41,Female,65,38,35
 42,Male,24,38,92
 43,Male,48,39,36
@@ -49,7 +49,7 @@ CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100)
 47,Female,50,40,55
 48,Female,27,40,47
 49,Female,29,40,42
-50,Female,31,40,42
+50,Female,31,,42
 51,Female,49,42,52
 52,Male,33,42,60
 53,Female,31,43,54
@@ -66,7 +66,7 @@ CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100)
 64,Female,54,47,59
 65,Male,63,48,51
 66,Male,18,48,59
-67,Female,43,48,50
+67,Female,43,48,High
 68,Female,68,48,48
 69,Male,19,48,59
 70,Female,32,48,47
@@ -84,7 +84,7 @@ CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100)
 82,Male,38,54,55
 83,Male,67,54,41
 84,Female,46,54,44
-85,Female,21,54,57
+85,Female,21,54,Low
 86,Male,48,54,46
 87,Female,55,57,58
 88,Female,22,57,55
